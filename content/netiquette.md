@@ -14,7 +14,7 @@ Here you will find a set of basic conventions that we find useful. They are part
 
 ### Behaviour
 
-Be respectful with your colleagues and follow the [Code of Conduct](/coc/) rules.
+Be respectful with your colleagues and follow the [Code of Conduct](/content/coc.md) rules.
 
 ### Accounts
 
